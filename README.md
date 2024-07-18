@@ -14,7 +14,7 @@
 
 ## 联系方式
 >
-> QQ: [1412219758](mqqwpa//im/chat?chat_type=wpa&uin=1412219758&version=1&src_type=web)
+> QQ: [1412219758](mqqwpa://im/chat?chat_type=wpa&uin=1412219758)
 >
 > Telegram: [@enltc](https://t.me/enltc)
 >
