@@ -1,4 +1,4 @@
-#介绍
+# 介绍
 
 > **可以理解为一个图片api的图库**
 
@@ -23,6 +23,8 @@
 > 由于 **Cloudflare Pages** 最多只能容纳 **20000** 个文件，而目前仓库已有 **23858** 个文件（未来还会更多），因此我创建了多个 **newapi** 仓库。
 >
 > 该[主仓库](https://github.com/enlt/newapi) 是其他 **newapi** 仓库的总和，所以如果已经使用该主仓库，其余的就不必再看。
+>
+>tip：其他 **newapi** 仓库在 [new-api](https://github.com/new-api)
 
 ## 联系方式
 
